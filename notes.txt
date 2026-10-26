@@ -1,1 +1,2 @@
 Learning the three states of Git.
+Git saves snapshots of project files.
